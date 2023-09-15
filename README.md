@@ -20,25 +20,18 @@
   /></a>
 </p>
 <!--Intro Bio-->
-<p>
-  📫 Looking to collaborate in: Designing Systems | Web-development | Android
-  development
-</p>
-<p>📫 Wealth creator</p>
-<p>
-  📫 Wrte over 372+ Posts and still on [Posts | Blogs | Articles | Tutorials]
-  over DSA and System Design on GeeksforGeeks, Medium, CodingNinjas
-</p>
+<p>Looking to collaborate in: Designing Systems | Web-development | Android Development</p>
+<p>Wealth creator</p>
+<p>Wrte over 372+ Posts and still on [Posts | Blogs | Articles | Tutorials] over DSA and System Design on GeeksforGeeks, Medium, CodingNinjas </p>
 <p>
   <a
     href="https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png"
     >ScholarBadge over GeeksforGeeks
   </a>
 </p>
-<p>📫 Solved over 650+ practice coding questions across various portals</p>
+<p>Solved over 650+ practice coding questions across various portals</p>
 <p>6^ over Hacker Rank</p>
-<p>
-  📫 How to reach me
+<p>How to reach me
   <a href="officialmayanksolanki@gmail.com"> : CLICK HERE</a>
 </p>
 <!--Connect with me-->
