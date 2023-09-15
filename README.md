@@ -26,11 +26,14 @@
 </p>
 
 <p>
-  - 🔭 Looking to collaborate on **not-easy projects** - ⚡ Scholar Badge in
-  writing posts over [Data Structures | System
-  Designing](https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png)
-  
-  - 📫 How to reach me **officialmayanksolanki@gmail.com**
+  - 🔭 Looking to collaborate on **not-easy projects** - ⚡ Badge earned by
+  writing tutorials over
+  <a
+    href="https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png"
+  >
+    Data Structures | System Designing
+  </a>
+  ) - 📫 How to reach me **officialmayanksolanki@gmail.com**
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -247,7 +250,7 @@
 
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mayanksolankiofficial&show_icons=true&locale=en&layout=compact"
     alt="mayanksolankiofficial"
   />
@@ -255,7 +258,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=mayanksolankiofficial&show_icons=true&locale=en"
     alt="mayanksolankiofficial"
   />
@@ -263,7 +266,7 @@
 
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksolankiofficial&"
     alt="mayanksolankiofficial"
   />
