@@ -258,7 +258,7 @@
 
 <p>
   &nbsp;<img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=mayanksolankiofficial&show_icons=true&locale=en"
     alt="mayanksolankiofficial"
   />
@@ -266,7 +266,7 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksolankiofficial&"
     alt="mayanksolankiofficial"
   />
