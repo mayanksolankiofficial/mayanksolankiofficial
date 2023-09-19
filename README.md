@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# Hi there, I'm Mayank Solanki- aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Mayank Solanki👋 
 
 <h1 align="center">Aspiring Software Developer | Content creator </h1>
 <h3 align="center">White Tiger from India</h3>
@@ -14,21 +14,21 @@
 - 👯 Quick learner looking to collaborate with innovative developers
 - 🥅 2023 Goals: Master- Web-development | Android Development
 - 🦧 Currently: ⬆️ CC DSA | Designing Systems | Patterns 
-- 🌱 I’m currently learning everything AI world is teachine
+- 🌱 I’m currently learning everything the AI world is teaching
 - 👁️‍🗨️ Fun fact:  <a href = "https://docs.google.com/document/d/1LgGxzjPf5Vxd875PRaspSSPnejEheK_A_ypvLbKgkTk/edit#heading=h.wj0puh61kxsr">Pro tip: Single sheet of paper never decides future be it degree or resume unless cheque
 - 💌 How to reach me <a href = "officialmayanksolanki@gmail.com">Mail Me</a>
 - 📩 How to reach me <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail Me</a>
 - 📲 How to reach me <a href = "https://t.me/mayanksolankiofficial">Telegram Me</a>
 ---
-If you come this far, artist is away now his art stays as ashes 
+If you come this far, the artist is away now his art stays as ashes 
 ---
-- 👨‍💻 Wrote over ~370 [Posts | Blogs | Articles | Tutorials] over DSA and System Design on Codechef, GeeksforGeeks, Medium, CodingNinjas
-- 👨‍💻 Reviewed over 14K+ wordpress posts on DSA and SD.
+- 👨‍💻 Wrote over ~370 [Posts | Blogs | Articles | Tutorials] over DSA and System Design on CodeChef, GeeksforGeeks, Medium, CodingNinjas
+- 👨‍💻 Reviewed over 14K+ WordPress posts on DSA and SD.
 - 👨‍💻 Solved 700+ practice coding questions across various coding portals
 - 👨‍💻 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
 - 😇 Google Generation Scholarship APAC Recipient 2021
 - 👨‍💻 Microsoft Learn Student Ambassador
-- 🩸 Check out SDE sheet created by him: [HitMeHarder]()  
+- 🩸 Check out the SDE sheet created by him: [HitMeHarder]()  
 ---
 
 ### 📕 Latest System Design Blog Posts of Artist 
@@ -39,8 +39,8 @@ If you come this far, artist is away now his art stays as ashes
 - [Important Key Concepts and Terminologies – Learn System Design](https://www.geeksforgeeks.org/important-key-concepts-and-terminologies-learn-system-design/)
 - [What is Scalability and How to achieve it – Learn System Design](https://www.geeksforgeeks.org/what-is-scalability-and-how-to-achieve-it-learn-system-design/)
 - [Complete Reference to Databases in Designing Systems – Learn System Design](https://www.geeksforgeeks.org/complete-reference-to-databases-in-designing-systems/)
-- [What is High Level Design – Learn System Design](https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/)
-- [What is Low Level Design or LLD – Learn System Design](https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/)
+- [What is High-Level Design – Learn System Design](https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/)
+- [What is Low-Level Design or LLD – Learn System Design](https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/)
 - [Communication Protocols In System Design](https://www.geeksforgeeks.org/communication-protocols-in-system-design/)
 - [Web Server, Proxies and their role in Designing Systems](https://www.geeksforgeeks.org/web-server-proxies-and-their-role-in-designing-systems/)
 - [Principles in Digital System Design](https://www.geeksforgeeks.org/principles-in-digital-system-design/)
