@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mayank Solanki👋 
 
-<h1 align="center">Aspiring Software Developer | Content creator </h1>
+<h1 align="center">Artist potraying Art- Giving Artistic Edge to Software Development</h1>
 <h3 align="center">White Tiger from India</h3>
 
 <img src="https://media.licdn.com/dms/image/C4E03AQFx61IWCc7oIA/profile-displayphoto-shrink_400_400/0/1605033706381?e=1695859200&v=beta&t=M8w8Z3djtvIT4kP-K7o7zDcBZ-aRUnlN4MF1vKkooS4" align="right" alt="Profile" width="250" />
