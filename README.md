@@ -15,9 +15,9 @@
 - 🥅 2023 Goals: Master- Web-development | Android Development
 - 🦧 Currently: ⬆️ CC DSA | Designing Systems | Patterns 
 - 🌱 I’m currently learning everything the AI world is teaching
-- 👁️‍🗨️ Fun fact:  <a href = "https://docs.google.com/document/d/1LgGxzjPf5Vxd875PRaspSSPnejEheK_A_ypvLbKgkTk/edit#heading=h.wj0puh61kxsr">Pro tip: Single sheet of paper never decides future be it degree or resume unless cheque
+- 👁️‍🗨️ Pro Tip:  <a href = "https://drive.google.com/file/d/1q9cbRqQHcgNCq8XIEtT0oP8W_uCE8t-D/view?usp=sharing">Life is Short | Believe In Yourself</a> 
 - 📩 How to reach me <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail Me</a>
-- 📲 How to reach me <a href = "https://t.me/mayanksolankiofficial">Telegram Me</a>
+- 📲 How to reach me faster<a href = "https://t.me/mayanksolankiofficial">Telegram Me</a>
 ---
 If you come this far, the artist is away now his art stays as ashes 
 ---
@@ -27,7 +27,7 @@ If you come this far, the artist is away now his art stays as ashes
 - 👨‍💻 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
 - 😇 Google Generation Scholarship APAC Recipient 2021
 - 👨‍💻 Microsoft Learn Student Ambassador
-- 🩸 Check out the SDE sheet created by him: [HitMeHarder]()  
+- 🩸 Checkout SDE sheet created by my Team: [Tailored-Premium-Free-For-You](https://drive.google.com/drive/folders/1a7GGriaQY5h1vnhclP45Z3N5V8fbK5M)  
 ---
 
 ### 📕 Latest System Design Blog Posts of Artist 
