@@ -16,7 +16,6 @@
 - 🦧 Currently: ⬆️ CC DSA | Designing Systems | Patterns 
 - 🌱 I’m currently learning everything the AI world is teaching
 - 👁️‍🗨️ Fun fact:  <a href = "https://docs.google.com/document/d/1LgGxzjPf5Vxd875PRaspSSPnejEheK_A_ypvLbKgkTk/edit#heading=h.wj0puh61kxsr">Pro tip: Single sheet of paper never decides future be it degree or resume unless cheque
-- 💌 How to reach me <a href = "officialmayanksolanki@gmail.com">Mail Me</a>
 - 📩 How to reach me <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail Me</a>
 - 📲 How to reach me <a href = "https://t.me/mayanksolankiofficial">Telegram Me</a>
 ---
@@ -63,7 +62,7 @@ If you come this far, the artist is away now his art stays as ashes
 ---
 ### 📕 Interview Corner | No cheating peaky blinders,relax and solve, thanks to art. 
 <!-- INTERVIEW-POST-LIST:START -->
-<p><a href= "https://www.geeksforgeeks.org/java-programming-examples.com">Java Programs – Java Programming Examples</a></p>
+<p><a href= "https://www.geeksforgeeks.org/java-programming-examples/">Java Programs – Java Programming Examples</a></p>
 <p><a hrefs = "https://www.geeksforgeeks.org/top-20-java-multithreading-interview-questions-answers/">Top Java Multithreading Interview Questions & Answers</a></p> 
 <!--INTERVIEW-POST-LIST:START -->
 
