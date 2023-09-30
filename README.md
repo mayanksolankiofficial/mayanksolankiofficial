@@ -1,13 +1,19 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 # Hi there, I'm Mayank Solanki👋 
+<!--
+- 🩸 [mayanksolanki.me](https://www.http//mayanksolanki.me/)
+- 🩸 [Daily Dose Of Happiness](https://drive.google.com/drive/folders/1a7GGriaQY5h1vnhclP45Z3N5V8fbK5M)  
+-->
 
 <h1 align="center">Software Developer | Content Creator</h1>
 <h3 align="center">White Tiger from India</h3>
 
+<!--
 <img src="https://media.licdn.com/dms/image/C4E03AQFx61IWCc7oIA/profile-displayphoto-shrink_400_400/0/1605033706381?e=1695859200&v=beta&t=M8w8Z3djtvIT4kP-K7o7zDcBZ-aRUnlN4MF1vKkooS4" align="right" alt="Profile" width="250" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksolankiofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksolankiofficial"/></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanksolankiofficial"alt="mayanksolankiofficial"/></a></p>
+!-->
 
 <!--Intro Bio-->
 - 🎓 Artist graduated from Delhi Technological University DTU(formerly DCE) 
@@ -28,7 +34,6 @@ If you come this far, the artist is away now his art stays as ashes
 - 👨‍💻 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
 - 😇 Google Generation Scholarship APAC Recipient 2021
 - 👨‍💻 Microsoft Learn Student Ambassador
-- 🩸 Checkout SDE sheet created by Team: [mahabharatcoders.in](https://drive.google.com/drive/folders/1a7GGriaQY5h1vnhclP45Z3N5V8fbK5M)  
 ---
 
 ### 📕 Latest System Design Blog Posts of Artist 
