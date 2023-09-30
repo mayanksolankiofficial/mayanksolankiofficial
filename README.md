@@ -10,14 +10,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanksolankiofficial"alt="mayanksolankiofficial"/></a></p>
 
 <!--Intro Bio-->
-- 🎓 Artist graduated from Delhi Technological University DTU(formely DCE) 
+- 🎓 Artist graduated from Delhi Technological University DTU(formerly DCE) 
 - 👯 Quick learner looking to collaborate with innovative developers
 - 🥅 2023 Goals: Master- Web-development | Android Development
 - 🦧 Currently: ⬆️ CC DSA | Designing Systems | Patterns 
 - 🌱 I’m currently learning everything the AI world is teaching
-- 👁️‍🗨️ Pro Tip:  <a href = "https://drive.google.com/file/d/1q9cbRqQHcgNCq8XIEtT0oP8W_uCE8t-D/view?usp=sharing">Life is Short | Believe In Yourself</a> 
 - 📩 How to Reach artist <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail Me</a>
 - 📲 How to Explore artist <a href = "https://linktr.ee/mayanksolankiofficial">Telegram Me</a>
+- 👁️‍🗨️ <a href = "https://leetcoderip.netlify.app/">SDE Sheet for Level 2/3 prepared by our Team</a>
+- 👁️‍🗨️ Pro Tip:  <a href = "https://drive.google.com/file/d/1q9cbRqQHcgNCq8XIEtT0oP8W_uCE8t-D/view?usp=sharing">Life is Short- Chase Fast | Believe In Yourself</a> 
 ---
 If you come this far, the artist is away now his art stays as ashes 
 ---
