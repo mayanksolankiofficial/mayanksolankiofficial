@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h3 align="center"> Hi👋 Techieguy from India- Mayank Solanki</h1>
-<h3 align="left">Senior Software Engineer | Coding Content Creator | Professional Athlete </h1>
+<h3 align="center"> Hi👋 I'm Mayank Solanki aka codebull</h1>
+<h3 align="left">Senior Software Engineer | Tech Content Creator | Pro Athlete </h1>
 
 <!--Intro Bio-->
 - 😇 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
