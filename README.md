@@ -2,37 +2,19 @@
 
 # Hi there, I'm Mayank Solanki👋 
 
-<h1 align="center">Software Developer | Content Creator</h1>
-<h3 align="center">White Tiger from India</h3>
-
-<img src="https://media.licdn.com/dms/image/C4E03AQFx61IWCc7oIA/profile-displayphoto-shrink_400_400/0/1605033706381?e=1695859200&v=beta&t=M8w8Z3djtvIT4kP-K7o7zDcBZ-aRUnlN4MF1vKkooS4" align="right" alt="Profile" width="250" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayanksolankiofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mayanksolankiofficial"/></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayanksolankiofficial"alt="mayanksolankiofficial"/></a></p>
+<h3 align="center">Senior Software Engineer | Content Creator | Professional Athlete </h1>
 
 <!--Intro Bio-->
-- 🎓 Artist graduated from Delhi Technological University DTU(formerly DCE) 
-- 👯 Quick learner looking to collaborate with innovative developers
-- 🥅 2023 Goals: Master- Web-development | Android Development
-- 🦧 Currently: ⬆️ CC DSA | Designing Systems | Patterns 
-- 🌱 I’m currently learning everything the AI world is teaching
-- 📩 How to Reach artist <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Mail Me</a>
-- 📲 How to Explore artist <a href = "https://linktr.ee/mayanksolankiofficial">Telegram Me</a>
-- 👁️‍🗨️ <a href = "https://leetcoderip.netlify.app/">SDE Sheet for Level 2/3 prepared by our Team</a>
-- 👁️‍🗨️ Pro Tip:  <a href = "https://drive.google.com/file/d/1q9cbRqQHcgNCq8XIEtT0oP8W_uCE8t-D/view?usp=sharing">Life is Short- Chase Fast | Believe In Yourself</a> 
----
-If you come this far, the artist is away now his art stays as ashes 
----
-- 👨‍💻 Wrote over ~370 [Posts | Blogs | Articles | Tutorials] over DSA and System Design on CodeChef, GeeksforGeeks, Medium, CodingNinjas
-- 👨‍💻 Reviewed over 14K+ WordPress posts on DSA and SD.
-- 👨‍💻 Solved 700+ practice coding questions across various coding portals
-- 👨‍💻 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
+- 😇 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
 - 😇 Google Generation Scholarship APAC Recipient 2021
-- 👨‍💻 Microsoft Learn Student Ambassador
-- 🩸 Checkout SDE sheet created by Team: [mahabharatcoders.in](https://drive.google.com/drive/folders/1a7GGriaQY5h1vnhclP45Z3N5V8fbK5M)  
+- 😇 Microsoft Learn Student Ambassador
+- 🎓 Graduated(B.Tech/BEng) in IT from Delhi Technological University [DTU/DCE], India
+- 🌱 Welcome Gift to coding community: [www.codebull.tech](https://leetcoderip.netlify.app/)
+- 👨‍💻 Quick learner looking to collaborate with innovative developers
+- 👨‍💻 Provided coding community 370+ Blog Posts | Reviewed 14K+ WordPress posts | DSA & System Design
+- </a> 🦧 <a href = "https://linktr.ee/mayanksolankiofficial"> How to Reach Me</a>
 ---
-
-### 📕 Latest System Design Blog Posts of Artist 
-
+### 📕 My Latest System Design Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [What is System Design – Learn System Design](https://www.geeksforgeeks.org/what-is-system-design-learn-system-design/)
 - [Analysis of Monolithic and Distributed Systems – Learn System Design](https://www.geeksforgeeks.org/analysis-of-monolithic-and-distributed-systems-learn-system-design/)
@@ -46,33 +28,22 @@ If you come this far, the artist is away now his art stays as ashes
 - [Principles in Digital System Design](https://www.geeksforgeeks.org/principles-in-digital-system-design/)
 - [Design Principles in System Design](https://www.geeksforgeeks.org/design-principles-in-system-design/)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [Getting tired, read my more blog posts on my website, hosting under construction...](https://solankimayank.wixsite.com/mayanksolanki/blog)
 ---
 <!-- TUTORIALS-POST-LIST:START -->
-### 📕 Latest Tutorials of Artist- On J2SE and J2EE 
-<p><a href= "https://www.geeksforgeeks.org/jdk-17-new-features-in-java-17/"></a>New Features in Java 17</p>
-
-<p><a href = "https://www.geeksforgeeks.org/top-20-java-multithreading-interview-questions-answers/">Top 20 Java Multithreading Interview Questions & Answers</a></p>
-<p><a href= "https://www.geeksforgeeks.org/java-multithreading-tutorial/">Java Multithreading Tutorial</a></p>
-<p><a href = "https://www.geeksforgeeks.org/java-8-stream-tutorial/">Java 8 Stream Tutorial</a></p>
-<p><a href = "https://www.geeksforgeeks.org/jdbc-tutorial/">JDBC Tutorial</a></p>
-<p><a href="https://www.geeksforgeeks.org/java-lambda-expressions-parameters/">Java – Lambda Expressions Parameters</a></p>
+### 📕 My Latest Tutorials | On J2SE and J2EE 
+- <a href= "https://www.geeksforgeeks.org/java-multithreading-tutorial/">Java Multithreading Tutorial</a>
+- <a href = "https://www.geeksforgeeks.org/java-8-stream-tutorial/">Java 8 Stream Tutorial</a>
+- <a href = "https://www.geeksforgeeks.org/jdbc-tutorial/">JDBC Tutorial</a>
+- <a href="https://www.geeksforgeeks.org/java-lambda-expressions-parameters/">Java – Lambda Expressions Parameters</a>
+- <a href= "https://www.geeksforgeeks.org/jdk-17-new-features-in-java-17/">New Features in Java 17 </a>
 <!--TUTORIALS-POST-LIST:END -->
-
 ---
-### 📕 Interview Corner | No cheating peaky blinders,relax and solve, thanks to art. 
-<!-- INTERVIEW-POST-LIST:START -->
-<p><a href= "https://www.geeksforgeeks.org/java-programming-examples/">Java Programs – Java Programming Examples</a></p>
-<p><a hrefs = "https://www.geeksforgeeks.org/top-20-java-multithreading-interview-questions-answers/">Top Java Multithreading Interview Questions & Answers</a></p> 
-<!--INTERVIEW-POST-LIST:START -->
-
-
-<p>Something big coming soon? Is it a website, by now not only artist even his art diminishes</p>   
-
-
+### 📕 Interview Corner
+- <a href= "https://www.geeksforgeeks.org/java-programming-examples/">Java Programs – Java Programming Examples</a>
+- <a href = "https://www.geeksforgeeks.org/top-20-java-multithreading-interview-questions-answers/">Top Java Interview Questions & Answers</a>
+---
 <!--Connect with me-->
-<h3 align="left">Humans can connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a
     href="https://linkedin.com/in/mayanksolankiofficial"
@@ -304,7 +275,7 @@ If you come this far, the artist is away now his art stays as ashes
 </p>
 
 ---
-<!--Last 3 box-->
+<!--Last 3 box
 <p>
   <img
     align="center"
@@ -330,5 +301,4 @@ If you come this far, the artist is away now his art stays as ashes
   />
 </p>
 
----
-Plug on headphones by now not only art fades away and forget the artist, it was always you and your curiousty was always the Art. Now being the white tiger sleeping I was watching you all from cave. How was the movie 'The White Tiger'
+-->
