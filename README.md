@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <!-- <h3 align="center"> 👋 I'm Mayank Solanki </h1> --> 
-<h3 align="left">Senior Software Engineer | Tech Content Creator | Pro Athlete </h1>
+<h3 align="left">👨‍💻 Senior Software Engineer | Tech Content Creator | Pro Athlete </h1>
 
 <p align="center">
 <a href="https://mayanksolanki.me" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -253,14 +253,14 @@
 -->
   
 <!--Intro Bio-->
-- 😇 <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
-- 😇 Google Generation Scholarship APAC Recipient 2021
-- 😇 Microsoft Learn Student Ambassador
-- 🎓 Graduated(B.Tech/BEng) in IT from Delhi Technological University [DTU/DCE], India
-- 🌱 Welcome Gift to the coding community: [www.codebull.tech](https://leetcoderip.netlify.app/)
-- 👨‍💻 Quick learner looking to collaborate with innovative developers
-- 👨‍💻 Provided coding community 370+ Blog Posts | Reviewed 14K+ WordPress posts | DSA & System Design
-- </a> 🦧 <a href = "https://linktr.ee/mayanksolankiofficial"> How to Reach Me</a>
+-  <a href = "https://media.geeksforgeeks.org/authuser-badges/445edc09b283f76cf0aa580c8edc0658b429577649a10a38016496f2fdc0c1cb.png">Scholar Badge over GeeksforGeeks</a>
+-  Google Generation Scholarship APAC Recipient 2021
+-  Microsoft Learn Student Ambassador
+-  Graduated(B.Tech/BEng) in IT from Delhi Technological University [DTU/DCE], India
+-  Welcome Gift to the coding community: [www.codebull.tech](https://leetcoderip.netlify.app/)
+-  Quick learner looking to collaborate with innovative developers
+-  Provided coding community 370+ Blog Posts | Reviewed 14K+ WordPress posts | DSA & System Design
+- </a> 🦧 <a href = "https://linktr.ee/mayanksolankiofficial"> Reach Me</a>
 ---
 ### 📕 My Latest System Design Blog Posts 
 <!-- BLOG-POST-LIST:START -->
