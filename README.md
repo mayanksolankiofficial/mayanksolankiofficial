@@ -2,7 +2,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 -->
 <!-- <h3 align="center"> 👋 I'm Mayank Solanki </h1> --> 
-<h3 align="left"> Senior Software Engineer | JavaEE + React</h1>
+<!-- <h3 align="left">Senior Software Engineer | SMTS </h1> -->
 <!--Tech Content Creator | Pro Athlete-->
 
 <p align="center">
